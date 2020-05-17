@@ -1,0 +1,14 @@
+Êþº¾   4   snippet/Snippet  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lsnippet/Snippet; main ([Ljava/lang/String;)V  java/lang/Error 7Unresolved compilation problems: 
+	Syntax error on token "new", ( expected
+	The left-hand side of an assignment must be a variable
+	Syntax error, insert ")" to complete Expression
+	Syntax error, insert "AssignmentOperator Expression" to complete Expression
+	Syntax error, insert ";" to complete BlockStatements
+
+     (Ljava/lang/String;)V 
+SourceFile Snippet.java !               /     *· ±    
+                 
+   	       *     
+» Y· ¿    
+                   
