@@ -4,4 +4,3 @@ takes control of a popular hero from the Warcraft universe. Based on the chosen 
 dealt a deck of cards. Over the course of the game, each player should use their cards to defeat the
 opponent’s hero.
 
-# Made with Java Language
